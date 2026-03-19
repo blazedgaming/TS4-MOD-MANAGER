@@ -1,0 +1,20 @@
+{
+  "mods_folder": "C:\\Users\\blaze\\OneDrive\\Documents\\Electronic Arts\\The Sims 4\\Mods",
+  "downloads_folder": "C:\\Users\\blaze\\Desktop\\@TS4 STUFF\\@Downloads",
+  "archive_folder": "C:\\Users\\blaze\\Desktop\\@TS4 STUFF\\@Archived",
+  "backup_folder": "C:\\Users\\blaze\\TS4_Mod_Man3ger\\backups",
+  "reports_folder": "C:\\Users\\blaze\\TS4_Mod_Man3ger\\reports",
+  "live_mods_folder": "C:/Users/blaze/TS4_Mod_Man3ger/test/mods",
+  "test_mods_folder": "C:/Users/blaze/TS4_Mod_Man3ger/test/mods",
+  "current_preset": "Live",
+  "is_locked": true,
+  "always_prompt_backup_before_import": true,
+  "last_audit_file": "C:\\Users\\blaze\\TS4_Mod_Man3ger\\reports\\mod_audit_20260319_233941.html",
+  "last_backup_folder": "C:\\Users\\blaze\\TS4_Mod_Man3ger\\backups\\mods_backup_Mods_20260319_235942",
+  "removed_duplicates_folder": "C:\\Users\\blaze\\Desktop\\@TS4 STUFF\\@REMOVED",
+  "last_removed_duplicates_folder": "C:\\Users\\blaze\\Desktop\\@TS4 STUFF\\@REMOVED\\removed_20260320_000214",
+  "managed_root_parent": "C:\\Users\\blaze\\Desktop",
+  "managed_root": "C:\\Users\\blaze\\Desktop\\@TS4 STUFF",
+  "managed_root_folder": "",
+  "sims4_documents_folder": "C:\\Users\\blaze\\OneDrive\\Documents\\Electronic Arts\\The Sims 4"
+}
